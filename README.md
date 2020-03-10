@@ -9,8 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# pranjal.sivastava@iitgn.ac.in
-## PhD(3rd year)
+ pranjal.sivastava@iitgn.ac.in
+ PhD(3rd year)
 ### Discipline Of Mathematics
 
 - Bulleted
